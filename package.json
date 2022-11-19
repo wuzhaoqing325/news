@@ -21,7 +21,7 @@
     "webpack-dev-server": "^3.10.1",
     "babel-plugin-react-html-attrs": "^2.0.0",
     "style-loader": "^0.13.1",
-    "css-loader": "^0.25.0",
+    "css-loader": "^6.7.2",
     "react-router": "^2.8.1",
     "react-responsive": "^1.2.1"
   },
